@@ -1,0 +1,26 @@
+[
+    {
+        "nombre_art":"articulo 1",
+        "descripcion_art": "descripcion 1",
+        "imagen_art":"./multimedia/imagen1.jpg",
+        "user_art":"Luis Morales",
+        "valor_art":"10000",
+        "cantidad_art":"1"
+    },
+    {
+        "nombre_art":"articulo 2",
+        "descripcion_art": "descripcion 2",
+        "imagen_art":"./multimedia/imagen2.jpg",
+        "user_art":"carlos Centeno",
+        "valor_art":"20000",
+        "cantidad_art":"3"
+    },
+    {
+        "nombre_art":"articulo 3",
+        "descripcion_art": "descripcion 1",
+        "imagen_art":"./multimedia/imagen2.jpg",
+        "user_art":"Miguel Cano",
+        "valor_art":"30000",
+        "cantidad_art":"1"
+    }
+]

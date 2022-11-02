@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import App from './App';
+import Footer from './Componentes/Footer';
+import Nav from './Componentes/Nav';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Nav enlace1="Inicio" enlace2="Nuevo Articulo" enlace3="Inicio de Sesion" enlace4="Registrarme"/>
+    {/* <App /> */}
+    <Footer />
+    
   </React.StrictMode>
 );
 
