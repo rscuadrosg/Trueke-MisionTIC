@@ -33,10 +33,13 @@ class Nav extends Component {
                                 </li>
                             </ul>
                         </div>
-                        <form class="d-flex justify-content-end" role="search">
-                                <input class="form-control me-2" type="search" placeholder="Busca algo" aria-label="Search" />
-                                <button class="btn btn-outline-primary" type="submit">Buscar</button>
+                        <form className="d-flex justify-content-end" role="search">
+                                <input className="form-control me-2" type="search" placeholder="Busca algo" aria-label="Search" />
+                                <button className="btn btn-outline-primary" type="submit">Buscar</button>
                         </form>
+                        <div className="btn btn-outline-primary text-white">
+                            Luis
+                        </div>
                     </div>
                 </nav>
 
