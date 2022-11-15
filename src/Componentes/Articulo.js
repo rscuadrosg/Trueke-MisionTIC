@@ -17,7 +17,7 @@ class Articulo extends Component{
 
     botones(user_art){
         //let r;
-        if (user_art==="Luis Morales") {
+        if (user_art==="carlos Centeno") {
             return this.state.btns_edit;         
         } else {
             return this.state.btn_intercambiar;
